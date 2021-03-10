@@ -1,0 +1,35 @@
+ZPL v<VERSION>.<YEAR>.<MONTH>.<DAY> 
+THIS SOFTWARE IS (C) <AUTHOR> <YEAR>
+
+The ZPL is a license designed for use in libraries that want to support open-source software.
+
+1.a: Requirements
+By agreeing to this license:
+You/Your Organization must not have involvement in closed-source software.
+You/Your Organization must not have involvment in censorship
+
+1.b: Software Information
+<insert software information here>
+
+2.a: What if I violate this license?
+Even if you don't agree to this license, it should be embedded in any programs that use this license. This means:
+1. If your information is signed below (which programs should require) then you hereby agree to usage of your information if it is violated.
+2. If your information is not signed and your program violates the license, you have possible legal action on your hands.
+
+2.b: Warranty Info
+THIS SOFTWARE HAS NO WARRANTY, NOR CAN FITNESS FOR A PARTICULAR PURPOSE BE GUARENTEED.
+PLEASE CONTACT THE OWNER OF THIS SOFTWARE AT:
+<CONTACT INFO>
+
+3.a: Agreement
+By signing your info below, you hereby agree to this license:
+<list all libraries used here, with their info, e.x., for GPL, the version info. For ZPL, it would be the "Creator Info" component here>
+Creator Info:
+Email: 
+Telephone:
+Name:
+
+User Info:
+Email: 
+Telephone
+Name:
